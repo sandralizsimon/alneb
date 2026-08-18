@@ -10,12 +10,21 @@ Sandra Liz Simon, et al. "An Active Learning Algorithm for Identifying Transitio
 DOI: [10.1021/acs.jctc.5c01811](https://doi.org/10.1021/acs.jctc.5c01811)
 
 ```bibtex
-@article{simon2026alneb,
-  title   = {AL-NEB},
-  author  = {Simon, Sandra Liz and others},
-  journal = {Journal of Chemical Theory and Computation},
-  year    = {2026},
-  doi     = {10.1021/acs.jctc.5c01811}
+@article{10.1021/acs.jctc.5c01811,
+    author = {Simon, Sandra
+Liz and Kaistha, Nitin and Agarwal, Vishal},
+    title = {An Active Learning Algorithm for Identifying Transition
+States on a Potential Energy Surface},
+    journal = {Journal of Chemical Theory and Computation},
+    volume = {22},
+    number = {6},
+    pages = {2972-2986},
+    year = {2026},
+    month = {03},
+    issn = {1549-9618},
+    doi = {10.1021/acs.jctc.5c01811},
+    url = {https://doi.org/10.1021/acs.jctc.5c01811},
+    eprint = {https://pubs.acs.org/jctcce/article-pdf/22/6/2972/63146447/ct5c01811.pdf},
 }
 ```
 
