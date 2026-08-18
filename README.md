@@ -2,6 +2,23 @@
 
 A MATLAB implementation of the Active Learning Nudged Elastic Band (ALNEB) method for finding minimum energy paths (MEPs) and transition states in atomistic systems. The method combines Gaussian Process Regression (GPR) with the Nudged Elastic Band (NEB) technique to efficiently locate transition states with minimal true energy/force evaluations.
 
+## How to Cite
+
+If you use this code in your research, please cite:
+
+Sandra Liz Simon, et al. "AL-NEB" (title as published), *Journal of Chemical Theory and Computation*, 2026.
+DOI: [10.1021/acs.jctc.5c01811](https://doi.org/10.1021/acs.jctc.5c01811)
+
+```bibtex
+@article{simon2026alneb,
+  title   = {AL-NEB},
+  author  = {Simon, Sandra Liz and others},
+  journal = {Journal of Chemical Theory and Computation},
+  year    = {2026},
+  doi     = {10.1021/acs.jctc.5c01811}
+}
+```
+
 ## Method Overview
 
 ALNEB operates in three phases:
