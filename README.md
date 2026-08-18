@@ -6,7 +6,7 @@ A MATLAB implementation of the Active Learning Nudged Elastic Band (ALNEB) metho
 
 If you use this code in your research, please cite:
 
-Sandra Liz Simon, et al. "AL-NEB" (title as published), *Journal of Chemical Theory and Computation*, 2026.
+Sandra Liz Simon, et al. "An Active Learning Algorithm for Identifying Transition States on a Potential Energy Surface", *Journal of Chemical Theory and Computation*, 2026.
 DOI: [10.1021/acs.jctc.5c01811](https://doi.org/10.1021/acs.jctc.5c01811)
 
 ```bibtex
