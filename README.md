@@ -11,10 +11,8 @@ DOI: [10.1021/acs.jctc.5c01811](https://doi.org/10.1021/acs.jctc.5c01811)
 
 ```bibtex
 @article{10.1021/acs.jctc.5c01811,
-    author = {Simon, Sandra
-Liz and Kaistha, Nitin and Agarwal, Vishal},
-    title = {An Active Learning Algorithm for Identifying Transition
-States on a Potential Energy Surface},
+    author = {Simon, Sandra Liz and Kaistha, Nitin and Agarwal, Vishal},
+    title = {An Active Learning Algorithm for Identifying Transition States on a Potential Energy Surface},
     journal = {Journal of Chemical Theory and Computation},
     volume = {22},
     number = {6},
